@@ -1,4 +1,4 @@
-### Hey, I'm Felipe 👋🧑‍💻
+# Hi, I'm Felipe 👋🧑‍💻
 
 #### I'm a brazilian IT student who's passionate about programming and helping people through code and technology. Some of the technologies I use at my projects include Python, Flask, MySQL, HTML5 and CSS3. My passion about coding started when I was just a little curious kid about the internet and games but I found passion when I started studying and finished CS50 at harvard.edu and decided that was my life!
 
