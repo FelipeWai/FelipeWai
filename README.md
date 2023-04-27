@@ -1,6 +1,6 @@
 # Hi, I'm Felipe 👋🧑‍💻
 
-![FELIPE WAI](https://user-images.githubusercontent.com/97367113/234678180-0b0d0612-d1eb-4e11-b3ed-0ff0666da070.png)
+![FELIPE WAI](https://user-images.githubusercontent.com/97367113/234750914-2d40de7f-f37a-4bd6-9ca0-41ece9416a7d.png)
 
 #### I'm a brazilian IT student who's passionate about programming and helping people through code and technology. Some of the technologies I use at my projects include Python, Flask, MySQL, HTML5 and CSS3. My passion about coding started when I was just a little curious kid about the internet and games but I found passion when I started studying and finished CS50 at harvard.edu and decided that was my life!
 
