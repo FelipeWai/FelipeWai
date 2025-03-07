@@ -1,15 +1,23 @@
 🇺🇸🇺🇸
-# Hi! 👋
+<h1 align="center">Hi 👋, I'm Felipe Wai</h1>
+<h3 align="center">Software Engineer passionate about optimizing processes and developing functional solutions. I currently work at T2S Tecnologia as an outsourced developer for Porto de Itapoá (SC), working with Java on the Navis N4 software. My goal is to implement improvements that increase productivity and streamline port operations.</h3>
 
-#### I'm Felipe, a programming student with a passion for solving problems and creating innovative solutions.
+- 🔭 I’m currently working on [AdotE](https://adot-e.vercel.app/)
 
-#### My journey began with Harvard's CS50x course, where I developed a solid foundation in computer science. Since then, I've deepened my Python knowledge with Mosh Hamedani's 'Complete Python Mastery' course and completed CS50W, where I specialized in Django, JavaScript, and web development. Additionally, I finished the "Build a Backend REST API with Python & Django - Advanced" course, where I developed a REST API using Django Rest Framework, TDD (Test Driven Development), and Docker Compose.
+- 🌱 I’m currently learning **Java, SpringBoot**
 
-#### At Universidade Santa Cecília, I study Information Systems, where I explore algorithms, databases, and object-oriented programming in C# and Java. I've also worked on an API project with ASP.NET and participated in the creation of a virtual bank using Windows Forms.
+- 👨‍💻 All of my projects are available at [https://github.com/FelipeWai](https://github.com/FelipeWai)
 
-#### My goal is to become a high-level developer at a FANG company, focusing on creating scalable and efficient solutions. Currently, I am looking to deepen my backend development skills and expand my horizons into data science.
+- 📫 How to reach me **felipewai.dev@gmail.com**
 
-#### Outside of programming, my hobbies include music, surfing, and jiu-jitsu. My travels to California and Lisbon have provided me with incredible experiences and taught me a lot about different cultures and the importance of communication.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/felipewai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipewai" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 
 🇧🇷🇧🇷
 # Oi! 👋
