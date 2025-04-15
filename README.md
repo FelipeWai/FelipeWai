@@ -1,10 +1,11 @@
+
 # 🇺🇸 Hi there! 👋 I'm Felipe Wai  
 
 Software Engineer passionate about backend development, cloud computing, and scalable solutions.  
 
 🚢 Currently working at **T2S Tecnologia**, outsourced for **Porto de Itapoá (SC)**, working with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Spring Boot** on the **Navis N4** system.  
 🔭 Building **AdotE**, a platform connecting people with animal adoption NGOs.  
-🌱 Learning about frontend with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React**, and deployment with <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/> **Kubernetes**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> **AWS**, and scalable architectures.  
+🌱 Learning about frontend with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React**, and deployment with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Kubernetes**, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="20"/> **AWS**, and scalable architectures.  
 🎯 My goal is to create high-performance and scalable solutions.  
 
 💻 Check out my projects: **[GitHub](https://github.com/FelipeWai)**  
@@ -14,7 +15,7 @@ Software Engineer passionate about backend development, cloud computing, and sca
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 
 📲 **Let's connect!**  
@@ -28,7 +29,7 @@ Engenheiro de Software apaixonado por desenvolvimento backend, computação em n
 
 🚢 Atualmente trabalhando na **T2S Tecnologia**, alocado no **Porto de Itapoá (SC)**, atuando com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Spring Boot** no sistema **Navis N4**.  
 🔭 Desenvolvendo o **AdotE**, uma plataforma que conecta pessoas a ONGs de adoção de animais.  
-🌱 Estudando frontend com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React** e deployment com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Kubernetes**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> **AWS** e arquiteturas escaláveis.  
+🌱 Estudando frontend com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React** e deployment com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Kubernetes**, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="20"/> **AWS** e arquiteturas escaláveis.  
 🎯 Meu objetivo é criar soluções de alta performance e com grande capacidade de escala.  
 
 💻 Confira meus projetos: **[GitHub](https://github.com/FelipeWai)**  
@@ -38,7 +39,7 @@ Engenheiro de Software apaixonado por desenvolvimento backend, computação em n
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 
 📲 **Bora conectar!**  
