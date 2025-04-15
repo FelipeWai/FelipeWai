@@ -1,3 +1,4 @@
+
 # 🇺🇸 Hi there! 👋 I'm Felipe Wai  
 
 Software Engineer passionate about backend development, cloud computing, and scalable solutions.  
@@ -18,9 +19,7 @@ Software Engineer passionate about backend development, cloud computing, and sca
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 
 📲 **Let's connect!**  
-<a href="https://www.linkedin.com/in/felipewai/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="24" style="vertical-align:middle;"/> LinkedIn
-</a>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeWai-blue?logo=linkedin)](https://www.linkedin.com/in/felipewai/)  
 
 ---
 
@@ -44,6 +43,4 @@ Engenheiro de Software apaixonado por desenvolvimento backend, computação em n
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 
 📲 **Bora conectar!**  
-<a href="https://www.linkedin.com/in/felipewai/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="24" style="vertical-align:middle;"/> LinkedIn
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeWai-blue?logo=linkedin)](https://www.linkedin.com/in/felipewai/)
