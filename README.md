@@ -4,7 +4,7 @@ Software Engineer passionate about backend development, cloud computing, and sca
 
 🚢 Currently working at **T2S Tecnologia**, outsourced for **Porto de Itapoá (SC)**, working with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java** and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Spring Boot** on the **Navis N4** system.  
 🔭 Building **AdotE**, a platform connecting people with animal adoption NGOs.  
-🌱 Learning about frontend with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React**, and deployment with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Kubernetes**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> **AWS**, and scalable architectures.  
+🌱 Learning about frontend with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React**, and deployment with <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/> **Kubernetes**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> **AWS**, and scalable architectures.  
 🎯 My goal is to create high-performance and scalable solutions.  
 
 💻 Check out my projects: **[GitHub](https://github.com/FelipeWai)**  
