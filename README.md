@@ -12,11 +12,13 @@ Software Engineer passionate about backend development, cloud computing, and sca
 📫 Reach me at: **felipewai.dev@gmail.com**  
 
 🚀 **Tech Stack**:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+</p>
 
 📲 **Let's connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeWai-blue?logo=linkedin)](https://www.linkedin.com/in/felipewai/)  
@@ -36,11 +38,13 @@ Engenheiro de Software apaixonado por desenvolvimento backend, computação em n
 📫 Fale comigo: **felipewai.dev@gmail.com**  
 
 🚀 **Stack Tecnológica**:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+</p>
 
 📲 **Bora conectar!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FelipeWai-blue?logo=linkedin)](https://www.linkedin.com/in/felipewai/)
