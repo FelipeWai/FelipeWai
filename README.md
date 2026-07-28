@@ -1,66 +1,8 @@
-
-<h1 align="left">E aí, tudo certo? 👋</h1>
-
-<p align="left">
-Meu nome é Felipe e sou Desenvolvedor Backend, trabalhando principalmente com Java, Spring Boot e PostgreSQL. Crio APIs robustas, resolvo problemas complexos e atualmente atuo no Porto de Itapoá customizando e melhorando a plataforma Navis N4.
-</p>
-
----
-
-<h2 align="left">Sobre mim</h2>
+<h1 align="left">Hey there, I'm Felipe 👋</h1>
 
 <p align="left">
-✨ Criando bugs desde 2021<br>
-📚 Atualmente estudando sistemas de mensageria como Kafka e RabbitMQ, além de Go para aprofundar minhas habilidades no backend<br>
-🎯 Objetivos: construir projetos backend sólidos e crescer como desenvolvedor Java/Spring<br>
-🎲 Fun fact: eu toco guitarra e um dia ainda vou competir no Ironman
-</p>
-
----
-
-<h2 align="left">Tecnologias que uso</h2>
-
-<div align="left">
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <!-- Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <!-- Kafka -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
-  <img width="12" />
-  <!-- RabbitMQ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
-  <img width="12" />
-  <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-</div>
-
----
-
-
-<br><br>
-<h1 align="left">Hey, there 👋 What's up?</h1>
-
-<p align="left">
-My name is Felipe and I'm a Backend Developer from Brazil, working mainly with Java, Spring Boot and PostgreSQL. I build robust APIs, solve complex problems and currently work at Porto de Itapoá customizing and improving the Navis N4 platform.
+Backend Developer from Brazil 🇧🇷 focused on <strong>Java</strong>, <strong>Spring Boot</strong> and <strong>PostgreSQL</strong>.
+I build and modernize backend systems on critical, high-scale platforms — currently on banking systems at <strong>Unisys</strong>, and previously on the software that runs one of Brazil's largest container ports. I care about clean, well-tested code and problems where getting it wrong is expensive.
 </p>
 
 ---
@@ -68,45 +10,59 @@ My name is Felipe and I'm a Backend Developer from Brazil, working mainly with J
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2021<br>
-📚 I'm currently learning messaging systems like Kafka and RabbitMQ, and also studying Go to deepen my backend skills<br>
-🎯 Goals: build solid backend projects and grow as a Java/Spring developer<br>
-🎲 Fun fact: I play guitar and one day I'll compete in Ironman
+🧩 Shipping backend code since 2021<br>
+🏦 Day-to-day: microservices + legacy modernization on critical banking systems (Java, Spring Boot, PostgreSQL)<br>
+🚢 Previously: worked on <strong>Navis N4</strong>, the Terminal Operating System behind <strong>Porto de Itapoá</strong> — one of Brazil's largest container ports<br>
+🚀 Building <strong>AdotE</strong> — a pet-adoption platform (Spring Boot + React) that connects animal-rescue NGOs with adopters, currently live in production<br>
+📚 Currently leveling up in messaging systems (Kafka, RabbitMQ) and exploring Go to deepen my backend skills<br>
+🎯 Goal: grow into a senior Java/Spring engineer building solid, scalable systems<br>
+🎸 Fun fact: I play guitar, train triathlon, and one day I'll race an Ironman
 </p>
 
 ---
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🐾 Featured project</h2>
+
+<p align="left">
+<strong><a href="ADD_ADOTE_REPO_OR_SITE_LINK">AdotE</a></strong> — a production platform that helps rescue NGOs manage and publish animals for adoption.
+Built with <strong>Spring Boot</strong> (REST API) and <strong>React</strong>, with a real NGO onboarded and using it.
+</p>
+
+---
+
+<h2 align="left">🛠️ Core stack</h2>
 
 <div align="left">
-  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <!-- Kafka -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
-  <img width="12" />
-  <!-- RabbitMQ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
-  <img width="12" />
-  <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
 </div>
+
+<h2 align="left">🌱 Also working with / exploring</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="django logo" />
+</div>
+
+---
+
+<h2 align="left">📫 Let's connect</h2>
+
+<p align="left">
+<a href="ADD_LINKEDIN_URL">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:ADD_YOUR_EMAIL">Email</a>
+</p>
